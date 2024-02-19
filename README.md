@@ -18,7 +18,7 @@ Only the  most *popular* car brands in each country are listed. The data is base
 |Car|Date Range|Location|Notes| 
 |---|---|---|---|
 |Audi RS3|2022|UK|9/10|
-|---|---|---|---|
+
 |BMW M4|2019|UK|7/10|
 
 
