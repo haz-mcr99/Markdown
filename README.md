@@ -1,6 +1,6 @@
 # BigHaz - Cars Passion
 
-Only the  most *popular* car brands in each country are listed. The data is based on a survey conducted by **me** and a couple of friends, whom were intrested in this. 
+Only the  most *popular* car brands in each country are listed. The data is based on a survey conducted by **me**. 
 
 ## Fancy Cars Collection
 
