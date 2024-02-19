@@ -2,10 +2,11 @@
 
 Only the  most *popular* car brands in each country are listed. The data is based on a survey conducted by **me**. 
 
-## Fancy Cars Collection
+## Future Cars Collection
 
 - [x] Audi RS3
 - [ ] BMW M4 Competition
+- [x] MB G Class
 
 ## Reasons you should buy these ⭐ cars
 
@@ -26,4 +27,4 @@ Only the  most *popular* car brands in each country are listed. The data is base
 1. Audi RS3
 2. [BMW M4](https://www.topgear.com/sites/default/files/2024/01/_9EK6601-1.jpg)
 
-> The best car I ever drove - MK7 Golf GTI
+> The best car I drove so far - 2021 Audi RSQ7 
